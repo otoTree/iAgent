@@ -10,7 +10,7 @@
 
 ​      We extensively utilize the concept of function calls in our design, driven by the large model that drives various tools. Therefore, before conducting various function calls, we set a trigger for the large model to determine whether to generate a new status. Otherwise, we will continue with the previous status. Refusing to generate a new status this time will only be recorded inside the trigger
 
-![AGENT](pic/AGENT.png)
+![AGENT](pic/AGENT.jpg)
 
 
 
